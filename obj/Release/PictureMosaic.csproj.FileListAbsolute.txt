@@ -1,0 +1,12 @@
+E:\CodeSpace\C#\PictureMosaic\bin\Release\PictureMosaic.exe.config
+E:\CodeSpace\C#\PictureMosaic\bin\Release\PictureMosaic.exe
+E:\CodeSpace\C#\PictureMosaic\bin\Release\PictureMosaic.pdb
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.Form1.resources
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.Properties.Resources.resources
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.csproj.GenerateResource.Cache
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.exe
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.pdb
+E:\CodeSpace\C#\PictureMosaic\bin\Release\PictureMosaic.exe.manifest
+E:\CodeSpace\C#\PictureMosaic\bin\Release\PictureMosaic.application
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.exe.manifest
+E:\CodeSpace\C#\PictureMosaic\obj\Release\PictureMosaic.application
